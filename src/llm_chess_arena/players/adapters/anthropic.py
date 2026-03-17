@@ -1,0 +1,4 @@
+\"\"\"Anthropic adapter.
+
+TODO: Implement.
+\"\"\"

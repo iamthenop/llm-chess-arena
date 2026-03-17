@@ -1,0 +1,4 @@
+\"\"\"OpenAI adapter.
+
+TODO: Implement.
+\"\"\"

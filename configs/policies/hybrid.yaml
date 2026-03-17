@@ -1,0 +1,6 @@
+name: hybrid
+memory:
+  shared: true
+  private: true
+  opponent_public: false
+

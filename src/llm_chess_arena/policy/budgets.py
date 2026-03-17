@@ -1,0 +1,4 @@
+\"\"\"Budget rules.
+
+TODO: Implement.
+\"\"\"

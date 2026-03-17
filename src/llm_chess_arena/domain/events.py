@@ -1,0 +1,4 @@
+\"\"\"Domain events.
+
+TODO: Implement.
+\"\"\"

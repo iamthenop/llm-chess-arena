@@ -1,0 +1,4 @@
+\"\"\"Arbiter package.
+
+TODO: Implement.
+\"\"\"

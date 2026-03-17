@@ -1,0 +1,4 @@
+\"\"\"Visibility rules.
+
+TODO: Implement.
+\"\"\"

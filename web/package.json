@@ -1,0 +1,10 @@
+{
+  "name": "llm-chess-arena-web",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "echo TODO: add web app",
+    "build": "echo TODO: add web build"
+  }
+}
+

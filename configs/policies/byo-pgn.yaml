@@ -1,0 +1,6 @@
+name: byo-pgn
+memory:
+  shared: false
+  private: true
+  opponent_public: false
+

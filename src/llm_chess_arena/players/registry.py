@@ -1,0 +1,4 @@
+\"\"\"Player registry.
+
+TODO: Implement.
+\"\"\"

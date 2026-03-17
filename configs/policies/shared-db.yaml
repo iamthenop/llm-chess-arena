@@ -1,0 +1,6 @@
+name: shared-db
+memory:
+  shared: true
+  private: false
+  opponent_public: false
+

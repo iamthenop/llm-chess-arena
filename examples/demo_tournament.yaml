@@ -1,0 +1,8 @@
+tournament:
+  name: demo
+  arena: rapid
+  policy: hybrid
+  players:
+    - mock-white
+    - mock-black
+

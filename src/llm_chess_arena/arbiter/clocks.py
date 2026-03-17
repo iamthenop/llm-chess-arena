@@ -1,0 +1,4 @@
+\"\"\"Clock management.
+
+TODO: Implement.
+\"\"\"

@@ -1,0 +1,6 @@
+name: no-memory
+memory:
+  shared: false
+  private: false
+  opponent_public: false
+

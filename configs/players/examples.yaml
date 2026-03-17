@@ -1,0 +1,6 @@
+players:
+  - id: mock-white
+    adapter: mock
+  - id: mock-black
+    adapter: mock
+

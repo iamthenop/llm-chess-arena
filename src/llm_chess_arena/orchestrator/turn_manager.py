@@ -1,0 +1,4 @@
+\"\"\"Turn manager.
+
+TODO: Implement.
+\"\"\"

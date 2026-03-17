@@ -1,0 +1,4 @@
+\"\"\"Arbiter service.
+
+TODO: Implement.
+\"\"\"

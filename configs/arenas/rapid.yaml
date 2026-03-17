@@ -1,0 +1,8 @@
+name: rapid
+clock:
+  initial_seconds: 600
+  increment_seconds: 5
+budget:
+  per_game_credits: 25
+  per_turn_credit_cap: 3
+

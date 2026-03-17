@@ -1,0 +1,4 @@
+\"\"\"Event store.
+
+TODO: Implement.
+\"\"\"

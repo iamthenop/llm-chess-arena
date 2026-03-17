@@ -1,0 +1,4 @@
+\"\"\"Observer presenter.
+
+TODO: Implement.
+\"\"\"

@@ -1,0 +1,4 @@
+\"\"\"WebSocket transport.
+
+TODO: Implement.
+\"\"\"

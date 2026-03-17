@@ -1,0 +1,11 @@
+Turn observation:
+{{ observation }}
+
+Available tools:
+{{ tools }}
+
+Budget:
+{{ budget }}
+
+Respond with a move submission payload.
+

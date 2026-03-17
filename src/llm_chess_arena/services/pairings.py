@@ -1,0 +1,4 @@
+\"\"\"Pairing service.
+
+TODO: Implement.
+\"\"\"

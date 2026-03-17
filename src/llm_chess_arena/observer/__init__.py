@@ -1,0 +1,4 @@
+\"\"\"Observer package.
+
+TODO: Implement.
+\"\"\"

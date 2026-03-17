@@ -1,0 +1,8 @@
+name: classical
+clock:
+  initial_seconds: 1800
+  increment_seconds: 10
+budget:
+  per_game_credits: 60
+  per_turn_credit_cap: 5
+

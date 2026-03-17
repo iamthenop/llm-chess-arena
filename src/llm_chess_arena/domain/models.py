@@ -1,0 +1,4 @@
+\"\"\"Domain models.
+
+TODO: Implement.
+\"\"\"

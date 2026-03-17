@@ -1,0 +1,4 @@
+\"\"\"Retrieval broker.
+
+TODO: Implement.
+\"\"\"

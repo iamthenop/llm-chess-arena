@@ -1,0 +1,4 @@
+\"\"\"Game adjudication.
+
+TODO: Implement.
+\"\"\"
